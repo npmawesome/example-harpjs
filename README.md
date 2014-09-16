@@ -1,4 +1,4 @@
-promise-harpjs
+example-harpjs
 ==============
 
 This example refers to the article on [nodejitsu.com](http://...) and [npmawesome.com](http://...) about `harpjs`.
