@@ -8,4 +8,4 @@ This example refers to the article on [nodejitsu.com](http://...) and [npmawesom
     git clone https://github.com/npmawesome/example-harpjs.git
     cd example-harpjs
     npm install
-    npm test
+    npm start
