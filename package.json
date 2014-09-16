@@ -1,0 +1,9 @@
+{
+  "name": "example-harpjs",
+  "scripts": {
+    "start": "harp server ."
+  },
+  "dependencies": {
+    "harp": "^0.13.0"
+  }
+}
